@@ -16,7 +16,9 @@
   "dependencies": {
     "app-main": "file:app-main",
     "bole": "^2.0.0",
-    "bole-stream": "^2.0.0",
+    "bole-stream": "^2.1.0",
+    "error": "^7.0.2",
+    "garnish": "^4.0.0",
     "http-ndjson": "^2.3.3",
     "pumpify": "^1.3.3",
     "server-summary": "^4.0.1",
@@ -27,7 +29,7 @@
   "devDependencies": {
     "bulk": "^2.0.0",
     "dependency-check": "^2.5.1",
-    "garnish": "^3.2.1",
+    "garnish": "^4.0.0",
     "istanbul": "^0.4.0",
     "linklocal": "^2.5.2",
     "nodemon": "^1.7.1",
